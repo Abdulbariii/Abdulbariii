@@ -2,7 +2,7 @@
 <h1 align="center">Hey 👋, I'm Abdulbari</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://bary010.netlify.app/](https://abdulbari.vercel.app/)
+- 👨‍💻 All of my projects are available at [abdulbari.vercel.app/](https://abdulbari.vercel.app/)
 
 - 📫 How to reach me **abdulbari.112917@gmail.com**
 
